@@ -1,2 +1,2 @@
-# Object-detection
-using tiny- yolov3 
+# YOLO V3
+Object detection using tiny- yolov3 
